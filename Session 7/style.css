@@ -1,0 +1,15 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    transition: 2s;
+}
+
+.hide{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 50%;
+    transition: 2s;
+    margin-top: 250px;
+}
